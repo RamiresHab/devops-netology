@@ -26,3 +26,5 @@ override.tf.json
 6.Files with names ".terraformrc" and "terraform.rc"
 .terraformrc
 terraform.rc
+
+This is a new line for 02-git-02-base job 3
