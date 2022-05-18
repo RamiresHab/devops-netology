@@ -28,3 +28,5 @@ override.tf.json
 terraform.rc
 
 This is a new line for 02-git-02-base job 3
+
+This is second commit from GUI for job 4
